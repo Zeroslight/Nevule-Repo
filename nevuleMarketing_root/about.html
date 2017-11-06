@@ -1,0 +1,108 @@
+<!doctype HTML>
+<html>
+	<head>
+		<title>Nevulé Digital Marketing</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="css/style.css" type="text/css">
+		<!--Bootstrap CDN -->
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<!--FontAwesome CDN-->
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+		<!--jQuery  NOTE TO SELF: linked files ALL GO ON THE HEAD-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<!--navAnimations.js-->
+		<script type="text-javascript" src="js/navbar.js"></script> 
+	</head>
+	<body>
+		
+<!-- Navigation -->
+	<div class="navigation">
+		<img href="index.html" src="img/logo.png" alt="Nevulé Media Logo">
+		<i id="bars" class="pull-right fa fa-bars fa-3x"></i>
+		<i id="close" class="pull-right fa fa-times fa-3x"></i>
+	</div>
+	<div class="overlay">
+	<nav>
+		<ul>
+			<li><a href="index.html">HOME</a></li>
+			<li><a href="https://nevulemedia.wordpress.com">BLOG</a></li>
+			<li><a href="about.html">OUR STORY</a></li>
+			<li><a href="services.html">SERVICES</a></li>
+		</ul>
+	</nav>
+</div><!--overlay-->
+	
+<div class="container-fluid">
+
+	<div id="image">
+	<img src="img/collabImg.jpg">
+	</div>
+
+	<section id="aboutMast">
+		<table>
+			<tr>
+			<td id="sidebar">
+		<h3 id="takeaway1" valign="top">Together we're determined to help artists connect with each other and help create amazing works of art.</h3>
+			</td>
+			<td>
+		<h1>Our Story</h1>
+		<h2>The origins of Nevulé take place in the hot schoolyards of Puerto Rico. The 3 of us (Henry Santana, Jared Stoeber, and Gino Gonzalez) met in 2007, and after a year of filling our notebooks with comics, we decided to create a studio that would challenge the big names on television.</h2>
+
+		<h2>Around 2013 we realized that our creations needed to be seen by the rest of the world. That is how we launched "Blarga Studios" online. <a href="http://blarga.weebly.com/series.html">That terrible website still exists.</a></h2>
+
+		<h2>We had up that point been without guidance for 5 years, and we were desperately in need of some direction. It was necessary for us to experience this failure because years later it would be the foundations of our new mission.</h2>
+
+		<h2>In 2016, after years of experimenting with online creation, we discovered digital marketing. With this form of dynamic storytelling, we'd be able to connect with other artists and help them with the same problems we experienced when we were younger. </h2>
+
+		<h2>And so Nevulé was born!</h2>
+			</td>
+			</tr>
+		</table>
+		<h3 id="takeaway2">Together we're determined to help artists connect with each other and help create amazing works of art.</h3>
+	</section>
+		</div><!--container-fluid -->
+
+		<div id="footer">
+		<div id="copy">
+		<div class="siteMap">
+		<img src="img/logo.png">
+		<h6>HOME</h6>
+		<h6>ABOUT</h6>
+		<h6>SERVICES</h6>
+		<h6>BLOG</h6>
+		<h6>CONTACT</h6>
+	</div>
+	<hr>
+		<div class="contact">
+		<h6>Talk to us!</h6>
+			<table>
+				<tr>
+				<td><img src="img/twitter.png"></td>
+				<td><img src="img/Instagram.png"></td>
+				</tr>
+			</table>
+			<h6>(347)-385-2239 | nevulemarketing@gmail.com |</h6>
+		</div>
+		<h6 id="legal">&copy; Nevulé Media 2017</h6>
+	</div>
+	</div> 
+
+
+		<script>
+			$('.navigation #bars').click(function(){
+				$('.navigation #bars').hide();
+				$('.navigation #close').show();
+				$('.overlay').fadeToggle();
+			});
+
+			$('.navigation #close').click(function(){
+				$('.navigation #close').hide();
+				$('.navigation #bars').show();
+				$('.overlay').fadeToggle();
+			})
+		</script>
+
+	</body>
+</html>

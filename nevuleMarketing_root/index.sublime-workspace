@@ -1,0 +1,240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"gr",
+				"grandTotal"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"exam",
+				"example-2"
+			],
+			[
+				"margin",
+				"marginRight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Henry/Documents/portfolio_sites/portfolio_site_2017/folio_root/css/main-style.css",
+		"/Users/Henry/Documents/portfolio_sites/portfolio_site_2017/folio_root/index.html",
+		"/Users/Henry/Documents/portfolio_sites/portfolio_site_2017/portfolio_root/index.html",
+		"/Users/Henry/Google Drive/Nevulé/Marketing Agency Branch/Assets/Website/nevuleMarketing_root/css/style.css",
+		"/Users/Henry/Google Drive/Nevulé/Marketing Agency Branch/Assets/Website/nevuleMarketing_root/about.html",
+		"/Users/Henry/Google Drive/Nevulé/Marketing Agency Branch/Assets/Website/nevuleMarketing_root/contact.html",
+		"/Users/Henry/Google Drive/Nevulé/Marketing Agency Branch/Assets/Website/nevuleMarketing_root/services.html",
+		"/Users/Henry/Google Drive/Nevulé/Marketing Agency Branch/Assets/Website/nevuleMarketing_root/index.html",
+		"/Users/Henry/Google Drive/Nevulé/Marketing Agency Branch/Assets/Website/nevuleMarketing_root/js/one.page.nav.js",
+		"/Volumes/HENRYDRIVE/College Work/x_Quarter8/STREAMING MEDIA AND webcasting/tennis-root/index.html",
+		"/Volumes/HENRYDRIVE/College Work/x_Quarter8/STREAMING MEDIA AND webcasting/tennis-root/css/style.css",
+		"/Volumes/HENRYDRIVE/College Work/x_Quarter8/STREAMING MEDIA AND webcasting/tennis-root/js/one.page.nav.js",
+		"/Users/Henry/Google Drive/Nevulé/Marketing Agency Branch/Assets/Website/nevuleMarketing_root/css/soon.css",
+		"/Users/Henry/Google Drive/Nevulé/Marketing Agency Branch/Assets/Website/nevuleMarketing_root/comingSoon.html",
+		"/Users/Henry/Google Drive/Nevulé/Marketing Agency Branch/Assets/Website/nevuleMarketing_root/js/slick.js",
+		"/Users/Henry/Google Drive/AllenShare/allenWork/js/login.js",
+		"/Users/Henry/Google Drive/AllenShare/allenWork/chatroom.html",
+		"/Users/Henry/Documents/practice/practice 3/js/basic-function.js",
+		"/Users/Henry/Documents/practice/practice 3/basic-function.html",
+		"/Users/Henry/Desktop/portfolio/portfolio_site_2017/portfolio_root/assets/css/main.css",
+		"/Users/Henry/Desktop/portfolio/portfolio_site_2017/portfolio_root/index.html",
+		"/Users/Henry/.Trash/portfolio_root/index.html",
+		"/Users/Henry/Documents/practice/practice 2/js/c02Example.js",
+		"/Users/Henry/Documents/practice/practice 2/c02Example.html",
+		"/Users/Henry/Documents/practice/practice 2/js/shorthand-variable.js",
+		"/Users/Henry/Documents/practice/practice 2/shorthand-variable.html",
+		"/Users/Henry/Documents/practice/practice 1/js/add-content.js",
+		"/Users/Henry/Documents/practice/js/add-content.js",
+		"/Users/Henry/Documents/practice/index.html",
+		"/Users/Henry/Documents/work/SNAC-expo.org/wordpress/wp-config-sample.php",
+		"/Users/Henry/Documents/Website templates/www.joelparko.com/_assets/css/style.css",
+		"/Users/Henry/Documents/Website templates/www.joelparko.com/index.html",
+		"/Users/Henry/Desktop/test/style.css",
+		"/Users/Henry/Desktop/test/test.html",
+		"/Users/Henry/Library/Application Support/Steam/steamapps/common/DarkestDungeon/_osx/Darkest.app/Contents/Resources/data/localization/localization.bat",
+		"/Users/Henry/Dropbox/www.thewaterscrooge.com/hubfs/EastVilleTest/css/style-t=1486766676000.css",
+		"/Users/Henry/Dropbox/www.thewaterscrooge.com/EastVilleTest.html",
+		"/Users/Henry/Documents/GuyWork/test.html",
+		"/Users/Henry/Dropbox/www.thewaterscrooge.com/hubfs/EastVille/css/style-t=1486766676000.css",
+		"/Users/Henry/Dropbox/www.thewaterscrooge.com/EastVille.html",
+		"/Users/Henry/Documents/GuyWork/test/style.css",
+		"/Users/Henry/Documents/GuyWork/test/index.html",
+		"/Users/Henry/Downloads/BackgroundMusic-master/MANUAL-INSTALL.md",
+		"/Users/Henry/Downloads/BackgroundMusic-master/build_and_install.sh",
+		"/Applications/wordpress/wp-config.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/portfolio/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/portfolio/footer.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/portfolio/sidebar.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/portfolio/content.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/portfolio/index.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/portfolio/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/portfolio/blog.css",
+		"/Users/Henry/Downloads/rbenv-master/README.md",
+		"/Volumes/HENRYDRIVE/portfolioElements/portfolio_root/index.html",
+		"/Volumes/HENRYDRIVE/portfolioElements/portfolio_root/css/style.css",
+		"/Users/Henry/Desktop/portfolio/portfolio2016/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
